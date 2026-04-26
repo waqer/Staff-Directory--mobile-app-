@@ -1,6 +1,8 @@
 # 📱 Staff Directory — Flutter App
 
 A clean, easy-to-use employee contact directory for 100 employees with search, filtering, emergency support, and real-time status tracking.
+<img width="1638" height="850" alt="UI" src="https://github.com/user-attachments/assets/058b5863-3432-4466-9bcb-c50107938c4c" />
+
 
 ---
 
